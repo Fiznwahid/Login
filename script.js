@@ -6,7 +6,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     var message = document.getElementById('message');
 
     // Validasi login sederhana
-    if (username === 'Intan' && password === '24 Agustus 2024') {
+    if (username === 'XXXXX' && password === '24 Agustus 2024') {
         message.style.color = 'green';
         message.textContent = 'Login berhasil!';
 
