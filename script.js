@@ -11,7 +11,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
         message.textContent = 'Login berhasil!';
 
         // Arahkan pengguna ke halaman berikutnya
-        window.location.href = 'https://fiznwahid.github.io/LOVEYOU/';  // Ganti URL ini dengan alamat tujuan yang diinginkan
+        window.location.href = 'https://fiznwahid.github.io/Loveyou/';  // Ganti URL ini dengan alamat tujuan yang diinginkan
     } else {
         message.style.color = 'red';
         message.textContent = 'Username atau password salah!';
